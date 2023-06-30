@@ -1,0 +1,21 @@
+# Written by ICEM CFD 19.2, user DELL, Fri Jun 30 15:33:34 中国标准时间 2023
+
+begin family SURFACE_BODY
+    begin solver "ANSYS Fluent"
+    end solver "ANSYS Fluent"
+end family SURFACE_BODY
+
+begin family WALL
+    begin solver "ANSYS Fluent"
+    end solver "ANSYS Fluent"
+end family WALL
+
+begin family LET1
+    begin solver "ANSYS Fluent"
+    end solver "ANSYS Fluent"
+end family LET1
+
+begin family LET2
+    begin solver "ANSYS Fluent"
+    end solver "ANSYS Fluent"
+end family LET2

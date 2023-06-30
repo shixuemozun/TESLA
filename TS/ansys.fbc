@@ -1,0 +1,7 @@
+# family_boco file written by ICEM CFD by DELL on Fri Jun 30 15:33:34 中国标准时间 2023
+## solver ANSYS Fluent
+"SURFACE_BODY"
+"WALL"
+"LET1"
+"LET2"
+
